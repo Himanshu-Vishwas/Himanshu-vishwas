@@ -37,9 +37,9 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-vishwas&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-vishwas" /> </p>
 <a href="https://github.com/Himanshu-vishwas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Himanshu-vishwas&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-vishwas&theme=buefy&layout=compact" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-vishwas&" alt="himanshu-vishwas" />
+  <img height="180em" width="30%" src="https://github-readme-stats.vercel.app/api?username=Himanshu-vishwas&theme=buefy&show_icons=true" />
+  <img height="180em" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-vishwas&theme=buefy&layout=compact" />
+  <img height="180em" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-vishwas&" alt="himanshu-vishwas" />
 
 </a>
 
