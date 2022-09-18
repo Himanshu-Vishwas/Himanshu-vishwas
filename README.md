@@ -53,4 +53,6 @@
   <a href="https://www.sololearn.com/profile/8864070" target="_blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="sololearn" height="30" width="30"/></a>
 </p>
 
+![snake gif](https://github.com/Himanshu-vishwas/Himanshu-vishwas/blob/output/github-contribution-grid-snake.gif)
+
 ⭐️ From [Himanshu-vishwas](https://github.com/Himanshu-vishwas)
