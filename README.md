@@ -6,6 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering.
+- 🗣️ &nbsp; Languages I know: Hindi + English + Spanish.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Machine Learning and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
@@ -30,9 +31,12 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-vishwas&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-vishwas" /> </p>
@@ -49,6 +53,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/himanshu-vishwas" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="himanshu-vishwas" height="30" width="40" /></a>
   <a href="https://www.sololearn.com/profile/8864070" target="_blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="sololearn" height="30" width="30"/></a>
+  <a href="contacthimanshuvishwas@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" height="30"></a>
 </p>
 
 ![snake gif](https://github.com/Himanshu-vishwas/Himanshu-vishwas/blob/output/github-contribution-grid-snake.gif)
