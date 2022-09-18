@@ -60,7 +60,7 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/himanshu-vishwas" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="himanshu-vishwas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/himanshu-vishwas" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="himanshu-vishwas" height="30" width="30" /></a>
   <a href="https://www.sololearn.com/profile/8864070" target="_blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="sololearn" height="30" width="30"/></a>
   <a href="contacthimanshuvishwas@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" height="30"></a>
 </p>
