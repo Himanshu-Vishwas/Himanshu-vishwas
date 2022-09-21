@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering.
-- 🗣️ &nbsp; Languages I know: Hindi + English + Spanish.
+- 🗣️ &nbsp; Human Languages I know: Hindi + English + Spanish.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Machine Learning and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
