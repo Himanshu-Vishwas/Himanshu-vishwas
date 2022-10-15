@@ -10,6 +10,7 @@
 - 🗣️ &nbsp; Human Languages I know: Hindi + English + Spanish.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Machine Learning and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ⏲️ &nbsp; Soft Skills: Leadership, Quick Learner, Event Management, Time Management.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
