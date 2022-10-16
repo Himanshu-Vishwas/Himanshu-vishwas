@@ -66,7 +66,7 @@
   <a href="https://www.sololearn.com/profile/8864070" target="_blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="sololearn" height="30" width="30"/></a>
   <a href="mailto:contacthimanshuvishwas@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" height="30"></a>
 </p>
-
+<h2 align="center">Watch a 🐍 eating my contribution!</h2>
 ![snake gif](https://github.com/Himanshu-vishwas/Himanshu-vishwas/blob/output/github-contribution-grid-snake.gif)
 
 ⭐️⭐️⭐️⭐️⭐️ From [Himanshu-vishwas](https://github.com/Himanshu-vishwas)
