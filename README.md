@@ -68,6 +68,6 @@
 </p>
 <h2 align="center">Watch a 🐍 eating my contribution!</h2>
 
-![snake gif](https://github.com/Himanshu-vishwas/Himanshu-vishwas/tree/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Himanshu-vishwas/Himanshu-vishwas/tree/output/github-contribution-grid-snake.svg)
 
 ⭐️⭐️⭐️⭐️⭐️ From [Himanshu-vishwas](https://github.com/Himanshu-vishwas)
