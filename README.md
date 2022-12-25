@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Studying Computer Science and Engineering.
 - 🗣️ &nbsp; Human Languages I know: Hindi + English + Spanish(L) + French(L).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Machine Learning and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Graphic and Animation Design, Blog Writing and chess as hobbies/side hustles.
 - ⏲️ &nbsp; Soft Skills: Leadership, Quick Learner, Event Management, Time Management.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
