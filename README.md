@@ -50,6 +50,7 @@
   ![After Effects](https://aleen42.github.io/badges/src/after_effects.svg)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-%2300C4CC.svg?&style=flat&logo=Figma&logoColor=white)
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-vishwas&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-vishwas" /> </p>
