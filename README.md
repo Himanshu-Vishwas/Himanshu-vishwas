@@ -2,6 +2,8 @@
 
 <h2 align="center"> Hola! soy <strong><u>HIMANSHU VISHWAS</u></strong>.</h2>
 <h4 align="center"><a href="https://himanshu-vishwas.github.io">Portfolio website</a></h4>
+<h4 align="center"><a href="https://play.google.com/store/apps/developer?id=marsman&hl=en_IN&gl=US">Playstore account</a></h4>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
